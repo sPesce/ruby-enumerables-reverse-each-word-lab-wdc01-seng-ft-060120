@@ -1,4 +1,4 @@
-def reverse_seach_word(sentence)
+def reverse_each_word(sentence)
   sent_arr = %w[sentence]
   
   reverse = sent_arr.collect{|word| word.reverse}  
