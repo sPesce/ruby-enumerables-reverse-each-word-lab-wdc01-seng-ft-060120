@@ -1,4 +1,3 @@
-require pry
 def reverse_each_word(sentence)
   p sentence 
   sent_arr = sentence.split(' ')
